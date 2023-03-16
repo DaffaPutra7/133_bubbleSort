@@ -60,17 +60,14 @@ void display() {
     cout << endl;
 }
 
-int main() {
+int main()
+{
     input();
     unsorted();
     bubbleSortArray();
     display();
 
     return 0;
-}
-
-int main()
-{
 }
 
 // Run program: Ctrl + F5 or Debug > Start Without Debugging menu
